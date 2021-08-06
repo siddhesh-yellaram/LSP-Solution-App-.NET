@@ -1,0 +1,6 @@
+D:\test\.NET\LSPSolutionApp\bin\Debug\LSPSolutionApp.exe.config
+D:\test\.NET\LSPSolutionApp\bin\Debug\LSPSolutionApp.exe
+D:\test\.NET\LSPSolutionApp\bin\Debug\LSPSolutionApp.pdb
+D:\test\.NET\LSPSolutionApp\obj\Debug\LSPSolutionApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\LSPSolutionApp\obj\Debug\LSPSolutionApp.exe
+D:\test\.NET\LSPSolutionApp\obj\Debug\LSPSolutionApp.pdb
